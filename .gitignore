@@ -1,2 +1,7 @@
 # IDE files
 .idea
+
+# Generated data
+data/post_eda.csv
+data/post_sharktank.csv
+data/post_sentiment.csv
